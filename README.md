@@ -1,0 +1,1 @@
+The server port and mongodb deployment server is not included. Should be in a separate config.js file within the backend folder (i.e. /backend/config.js)
